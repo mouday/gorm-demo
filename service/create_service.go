@@ -7,7 +7,9 @@ import (
 	"github.com/mouday/gorm-demo/models"
 )
 
-// 创建记录
+/*
+* 创建记录
+ */
 func CreateRow() {
 	db, _ := GetDb()
 

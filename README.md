@@ -4,6 +4,8 @@
 - [https://github.com/go-gorm/gorm](https://github.com/go-gorm/gorm)
 - [https://gorm.io/zh_CN/](https://gorm.io/zh_CN/)
 
+完整代码：[https://github.com/mouday/gorm-demo](https://github.com/mouday/gorm-demo)
+
 初始化项目
 
 ```bash
@@ -494,3 +496,4 @@ func GetCountFind() {
 }
 
 ```
+
